@@ -1,0 +1,1 @@
+Aplicação backend desenvolvida para gerenciar usuários e seus carros, incluindo a manutenção e reparos específicos de cada veículo. Construída com Node.js e Express, esta API fornece uma estrutura para criar, ler, atualizar e deletar (CRUD) informações de usuários e carros, além de permitir a associação entre eles.
